@@ -1,0 +1,11 @@
+
+*URxvt*scrollBar: false
+*URxvtcursorBlink: true
+*URxvt*cursorBlink: true
+*URxvt*internalBorder: 50
+*URxvt.geometry: 80x24
+*URxvt*transparent: true
+*URxvt.shading: 50
+*URxvt*font: xft:Inconsolata-Regular:style=Medium:size=15
+*URxvt*boldFont: xft:Inconsolata-Bold:style=Bold:size=14
+*URxvt*letterSpace: 0
