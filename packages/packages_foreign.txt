@@ -1,0 +1,71 @@
+##Foreign packages and explicit packages (aur)
+Linux sirenum x86_64
+Tue Apr 19 10:43:59 PM EDT 2022
+# # # # # # # # # # # # # #
+## AUR packages ##
+cava
+pfetch
+polybar
+yay
+## Explicitly installed packages ##
+alsa-utils
+atom
+autoconf
+automake
+autorandr
+base
+bison
+broadcom-wl
+bspwm
+cava
+cbatticon
+fakeroot
+feh
+firefox
+flex
+fragments
+gcc
+git
+glances
+gtop
+htop
+iwd
+liblqr
+libraqm
+libtool
+linux
+linux-firmware
+m4
+make
+man-db
+networkmanager
+nmap
+patch
+pfetch
+picom
+pkgconf
+polybar
+python-pywal
+qutebrowser
+ranger
+redshift
+reflector
+rofi
+rxvt-unicode
+scrot
+sudo
+sxhkd
+texinfo
+thunar
+tree
+ttf-inconsolata
+vi
+vim
+w3m
+which
+xclip
+xdg-user-dirs
+xorg-server
+xorg-xinit
+yay
+zathura
