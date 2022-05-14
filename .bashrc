@@ -24,8 +24,13 @@ alias net?='ping archlinux.org -c 5'
 alias fuckit='git push'
 alias pubsub='. $HOME/scripts/pubsub.sh'
 alias fixrofi='. ~/.config/rofi/fixrofi'
+alias networks='nmcli device wifi list'
 alias wifi-home='sudo nmcli device wifi connect sunshine password Nigerian'
+alias wifi-parents='sudo nmcli device wifi connect ORBI47 password chowchow'
+alias vol='amixer get Master | tail -1 | awk '{print$4}'' 
+alias volup='amixer set Master playback 15+'
+alias voldn='amixer set Master playback 15-'
 #alias wifi-of='sudo nmcli device wifi connect '
 (cat ~/.cache/wal/sequences &) #FIX THIS LINE ONCE PYWAL IS INSTALLED.
 
-
+alias wifi-of='sudo nmcli device wifi connect Old\ Florida\ Guest password oldflorida'
