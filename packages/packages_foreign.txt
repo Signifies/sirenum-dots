@@ -1,11 +1,13 @@
 ##Foreign packages and explicit packages (aur)
 Linux sirenum x86_64
-Tue Apr 19 10:43:59 PM EDT 2022
+Wed Jun  8 11:54:57 PM EDT 2022
 # # # # # # # # # # # # # #
 ## AUR packages ##
+betterlockscreen
 cava
+google-chrome
+i3lock-color
 pfetch
-polybar
 yay
 ## Explicitly installed packages ##
 alsa-utils
@@ -14,11 +16,14 @@ autoconf
 automake
 autorandr
 base
+betterlockscreen
 bison
 broadcom-wl
 bspwm
+btop
 cava
 cbatticon
+code
 fakeroot
 feh
 firefox
@@ -27,19 +32,26 @@ fragments
 gcc
 git
 glances
+google-chrome
+gparted
 gtop
+gummi
 htop
 iwd
 liblqr
 libraqm
+libreoffice-fresh
 libtool
 linux
 linux-firmware
+lolcat
 m4
 make
 man-db
 networkmanager
 nmap
+noto-fonts-cjk
+noto-fonts-emoji
 patch
 pfetch
 picom
